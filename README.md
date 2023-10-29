@@ -1,2 +1,2 @@
 # currency_converter
-Currency_converter
+Online currency converter
